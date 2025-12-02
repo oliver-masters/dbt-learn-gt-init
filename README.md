@@ -1,14 +1,15 @@
-Welcome to your new dbt project!
+Mohan kumar Gunasekaran Analytics
+This is a dbt project for managing {{ organization_name }}'s analytics project.
 
-### Using the starter project
+Our analytics stack:
 
-Try running the following commands:
-- dbt build
+Loader: {{ your_data_loading_tools }}
+Warehouse: {{ your_warehouse }}
+Transformation: dbt
+Business Intelligence: {{ your_bi_tool }}
+Permissions
+Access to the {{ warehouse }} warehouse is managed on a per-user basis by {{ person_or_team_name }}. If you need access, open a request in {{ tool_or_location }} by {{ best_way_to_write_request }}.
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+Using This Project
+Developing in the Cloud IDE
+Local Development
