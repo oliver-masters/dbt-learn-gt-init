@@ -1,5 +1,6 @@
 sources:
   - name: stripe
+    description: Stripe payments data
     database: raw
     tables:
       - name: payment        
